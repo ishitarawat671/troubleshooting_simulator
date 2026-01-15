@@ -39,31 +39,6 @@ System Running Slow
 
 Each issue is mapped to a basic first-level troubleshooting solution.
 
-▶️ How to Run the Project
-
-Clone this repository or download the files
-
-Make sure Python is installed on your system
-
-Open a terminal in the project folder
-
-Run the following command:
-
-python troubleshooting_simulator.py
-
-📂 Project Structure
-PC-Network-Troubleshooting-Simulator/
-│
-├── troubleshooting_simulator.py
-└── README.md
-
-🧪 Sample Output
-PC & Network Troubleshooting Simulator
--------------------------------------
-Select an issue:
-1. No Internet Connection
-2. Application Not Opening
-3. System Running Slow
 
 📈 Learning Outcomes
 
